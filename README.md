@@ -1,8 +1,7 @@
 # 8Puzzle-Problem-BFS
 ![puzzle-1](https://github.com/gpmoura4/8Puzzle-BFS-Solve/assets/78942968/d3ef0ab2-fe16-4e55-bb2c-a6a46eacce94)
 
-<img src="![puzzle-1](https://github.com/gpmoura4/8Puzzle-BFS-Solve/assets/78942968/d3ef0ab2-fe16-4e55-bb2c-a6a46eacce94)
-">
+<img src="https://github.com/gpmoura4/8Puzzle-BFS-Solve/assets/78942968/d3ef0ab2-fe16-4e55-bb2c-a6a46eacce94">
 
 O problema do 8-puzzle é um quebra-cabeça deslizante com um tabuleiro 3x3 e oito peças numeradas de 1 a 8, além de um espaço vazio. O objetivo é mover as peças uma de cada vez, na horizontal ou vertical, para colocá-las em uma configuração específica.
 
